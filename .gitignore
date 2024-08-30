@@ -1,0 +1,74 @@
+# Unity generated files
+Temp/
+Library/
+Logs/
+MemoryCaptures/
+Builds/
+ProjectSettings/
+
+# Autres configurations de projet
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Extensions des fichiers Mono auto-générés
+*.pidb.meta
+*.pdb
+*.mdb
+*.opendb
+
+# Extensions des fichiers Visual Studio
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Extensions des fichiers Visual Studio Code
+.vscode/
+
+# Textures auto-générées
+*.tga
+*.tiff
+*.png
+*.jpg
+
+# Annotations et symboles
+*.swp
+*.temp
+
+# Prouver des caches d'OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Thumbnails
+*.lnk
+
+# JetBrains Rider
+.idea/
+*.sublime-workspace
+
+# Rider
+*.sublime-workspace
+
+Temp/FSTimeGet-*
+
